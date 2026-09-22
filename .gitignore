@@ -11,8 +11,8 @@ __pycache__/
 *.so
 .pytest_cache/
 
-# Streamlit Cache
-.streamlit/
+# Streamlit Secrets
+.streamlit/secrets.toml
 
 # OS and Editor Artifacts
 .DS_Store

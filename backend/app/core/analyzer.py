@@ -27,6 +27,14 @@ class PIIAnalyzer:
     3. Indian Contextual Score Booster (kinship prefixes, administrative tokens)
     """
     def __init__(self):
+        # 0. Ensure spaCy model is installed
+        try:
+            import spacy
+            if not spacy.util.is_package("en_core_web_sm"):
+                spacy.cli.download("en_core_web_sm")
+        except Exception:
+            pass
+
         # 1. Configure spaCy NLP Engine
         nlp_configuration = {
             "nlp_engine_name": "spacy",
