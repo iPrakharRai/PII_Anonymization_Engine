@@ -1,0 +1,107 @@
+{
+  "structured_ids": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "target_met": true
+  },
+  "contextual_entities": {
+    "precision": 0.9651,
+    "recall": 0.9675,
+    "f1": 0.9663,
+    "target_met": true
+  },
+  "latency_per_page_seconds": 0.064,
+  "detailed_results": {
+    "EMAIL_ADDRESS": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 20,
+      "fp": 0,
+      "fn": 0,
+      "support": 20
+    },
+    "GPE": {
+      "precision": 0.9333,
+      "recall": 0.9333,
+      "f1": 0.9333,
+      "tp": 168,
+      "fp": 12,
+      "fn": 12,
+      "support": 180
+    },
+    "IN_AADHAAR": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 170,
+      "fp": 0,
+      "fn": 0,
+      "support": 170
+    },
+    "IN_BANK_ACCOUNT": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 120,
+      "fp": 0,
+      "fn": 0,
+      "support": 120
+    },
+    "IN_IFSC": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 120,
+      "fp": 0,
+      "fn": 0,
+      "support": 120
+    },
+    "IN_PAN": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 50,
+      "fp": 0,
+      "fn": 0,
+      "support": 50
+    },
+    "IN_PHONE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 190,
+      "fp": 0,
+      "fn": 0,
+      "support": 190
+    },
+    "IN_VOTER_ID": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 40,
+      "fp": 0,
+      "fn": 0,
+      "support": 40
+    },
+    "ORG": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "fp": 297,
+      "fn": 0,
+      "support": 0
+    },
+    "PERSON": {
+      "precision": 0.991,
+      "recall": 0.9955,
+      "f1": 0.9932,
+      "tp": 219,
+      "fp": 2,
+      "fn": 1,
+      "support": 220
+    }
+  }
+}

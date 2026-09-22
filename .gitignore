@@ -1,0 +1,30 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit Cache
+.streamlit/
+
+# OS and Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dynamic Run Data
+data/input/*
+data/output/*
+data/audit/*
+data/synthetic_benchmark/scanned_samples/*
+!data/input/.gitkeep
+!data/output/.gitkeep
+!data/audit/.gitkeep

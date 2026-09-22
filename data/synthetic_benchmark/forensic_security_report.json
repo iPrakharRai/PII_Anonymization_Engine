@@ -1,0 +1,161 @@
+{
+  "sample_size": 25,
+  "total_tokens_tested": 550,
+  "text_extraction_leaks": 0,
+  "raw_binary_stream_leaks": 0,
+  "metadata_leaks": 0,
+  "eradication_rate_percent": 100.0,
+  "zero_leak_verified": true,
+  "doc_results": [
+    {
+      "filename": "mock_doc_001_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_002_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_003_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_004_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_005_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_006_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_007_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_008_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_009_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_010_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_011_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_012_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_013_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_014_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_015_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_016_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_017_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_018_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_019_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_020_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_021_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_022_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_023_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_024_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    },
+    {
+      "filename": "mock_doc_025_beneficiary_sheet.pdf",
+      "tokens_checked": 22,
+      "leaks_detected": 0,
+      "leak_details": []
+    }
+  ]
+}

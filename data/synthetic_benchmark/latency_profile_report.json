@@ -1,0 +1,21 @@
+{
+  "digital": {
+    "pages_tested": 20,
+    "latency_per_page_seconds": 0.1023,
+    "throughput_pages_per_minute": 586.3,
+    "target_latency_seconds": 1.8,
+    "target_met": true
+  },
+  "scanned": {
+    "pages_tested": 3,
+    "latency_per_page_seconds": 78.9644,
+    "throughput_pages_per_minute": 0.8,
+    "target_latency_seconds": 4.5,
+    "target_met": false
+  },
+  "memory_mb": {
+    "baseline": 353.5,
+    "peak_digital": 358.1,
+    "peak_scanned": 712.8
+  }
+}
